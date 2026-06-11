@@ -114,7 +114,7 @@ scipy>=1.11.0
 
 ## 🚀 Live Demo
 
-👉 **[Open Live App on Streamlit Cloud](https://your-app-url.streamlit.app)**
+👉 **[Open Live App on Streamlit Cloud](https://candy-factory-optimizer.streamlit.app/)**
 
 ---
 
