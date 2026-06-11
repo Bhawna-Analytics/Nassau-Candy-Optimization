@@ -121,4 +121,4 @@ scipy>=1.11.0
 ## 👩‍💻 Author
 
 **Bhawna Singh**
-Unified Mentor Internship Program — June 2026
+Unified Mentor Business Analyst Internship Program — 11 June 2026
